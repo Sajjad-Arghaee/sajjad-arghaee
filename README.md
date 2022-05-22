@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hey all 👋
+## Im a student at FUM and backend developer
+- 🎯 My new target is learning about AI concepts
+- 👨‍💻 my experience in Django is about 1 year
+- 💻 Nowadays im working with my personal projects
 
-<!--
-**SajjadA80/SajjadA80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[<img align=”left” alt=”jjames- | LinkedIn” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align=”left” alt=”jobin_james_ride | Instagram” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[instagram]: https://instagram.com/sajjad.arg
+[linkedin]: https://www.linkedin.com/in/sajjad-arghaei-173a90238/
