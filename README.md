@@ -5,7 +5,4 @@
 - 💻 Nowadays im working with my personal projects
 
 ### Connect with me:
-[<img align=”left” alt=”jjames- | LinkedIn” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align=”left” alt=”jobin_james_ride | Instagram” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[instagram]: https://instagram.com/sajjad.arg
-[linkedin]: https://www.linkedin.com/in/sajjad-arghaei-173a90238/
+[<a href="arghae1380@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
