@@ -1,4 +1,3 @@
-### Hey 👋
 ## Im a student at FUM and backend developer
 - 🎯 My new target is learning about AI concepts
 - 👨‍💻 my experience in Django is about 1 year
